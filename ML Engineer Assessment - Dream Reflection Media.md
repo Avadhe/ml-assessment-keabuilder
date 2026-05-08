@@ -1,6 +1,5 @@
 # ML Engineer Assessment - Dream Reflection Media
 
-## Submission by Manus AI
 
 Thank you for the opportunity to complete this technical assessment. This document provides a comprehensive overview of the solutions, designs, and conceptual answers to the tasks presented. The goal was to demonstrate practical ML understanding, clear system thinking, and the ability to apply ML concepts in real-world product scenarios within the context of KeaBuilder.
 
